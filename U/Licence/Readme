@@ -1,0 +1,15 @@
+// Copyright (c) 2009-2018 The Bitcoin Core developers
+// Copyright (c) 2010-2019 lipsch.hth@gmail.com
+// Distributed under the MIT software license, see the accompanying
+// file COPYING or http://www.opensource.org/licenses/mit-license.php.
+// 
+// * * * *    0 1 2 3    十六進制    H E X _
+// * * * *    4 5 A B    第六時間    T I M E
+// * * * *    6 7 C D    進制貨幣    C A S H
+// * * * *    8 9 E F    系統識別    I D _ _
+//
+// UnicodeStream 
+//           [ 5341516D90325236
+//             7B2C516D66429593
+//             903252368CA85E63
+//             7CFB7D718B585225 ]

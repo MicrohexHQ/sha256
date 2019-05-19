@@ -3,6 +3,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 // 
+// # sha256
+//
 // * * * *    0 1 2 3    十六進制    H E X _
 // * * * *    4 5 A B    第六時間    T I M E
 // * * * *    6 7 C D    進制貨幣    C A S H
